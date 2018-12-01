@@ -1,6 +1,6 @@
 # gdg_flutter
 
-A new Flutter project.
+Let's Build Together!
 
 ## Getting Started
 
